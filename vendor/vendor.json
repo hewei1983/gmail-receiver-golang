@@ -1,0 +1,85 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "AH7jcN7pvaPDU6UjHdpT081DDGk=",
+			"path": "cloud.google.com/go/compute/metadata",
+			"revision": "01301d1df8060594708d76bda9062b0205b77e8b",
+			"revisionTime": "2018-03-30T00:03:09Z"
+		},
+		{
+			"checksumSHA1": "DpDJLCpsWHHTw7qvOsQD5fdN5Bw=",
+			"path": "github.com/Luzifer/go-openssl",
+			"revision": "152e199494cc86973a338a829c0968b4be0ef808",
+			"revisionTime": "2018-03-21T10:49:58Z"
+		},
+		{
+			"checksumSHA1": "GtamqiJoL7PGHsN454AoffBFMa8=",
+			"path": "golang.org/x/net/context",
+			"revision": "61147c48b25b599e5b561d2e9c4f3e1ef489ca41",
+			"revisionTime": "2017-03-19T02:15:06Z"
+		},
+		{
+			"checksumSHA1": "WHc3uByvGaMcnSoI21fhzYgbOgg=",
+			"path": "golang.org/x/net/context/ctxhttp",
+			"revision": "61147c48b25b599e5b561d2e9c4f3e1ef489ca41",
+			"revisionTime": "2017-03-19T02:15:06Z"
+		},
+		{
+			"checksumSHA1": "EOT+855GBCb1QG0sBy2xhB3c5+A=",
+			"path": "golang.org/x/oauth2",
+			"revision": "921ae394b9430ed4fb549668d7b087601bd60a81",
+			"revisionTime": "2018-03-22T05:12:59Z"
+		},
+		{
+			"checksumSHA1": "z7mSaGccufg15ki2YPd+M5PlsUc=",
+			"path": "golang.org/x/oauth2/google",
+			"revision": "921ae394b9430ed4fb549668d7b087601bd60a81",
+			"revisionTime": "2018-03-22T05:12:59Z"
+		},
+		{
+			"checksumSHA1": "SYinbTOs4JSXuw1R5RhiT+NnKNc=",
+			"path": "golang.org/x/oauth2/internal",
+			"revision": "921ae394b9430ed4fb549668d7b087601bd60a81",
+			"revisionTime": "2018-03-22T05:12:59Z"
+		},
+		{
+			"checksumSHA1": "huVltYnXdRFDJLgp/ZP9IALzG7g=",
+			"path": "golang.org/x/oauth2/jws",
+			"revision": "921ae394b9430ed4fb549668d7b087601bd60a81",
+			"revisionTime": "2018-03-22T05:12:59Z"
+		},
+		{
+			"checksumSHA1": "QPndO4ODVdEBILRhJ6869UDAoHc=",
+			"path": "golang.org/x/oauth2/jwt",
+			"revision": "921ae394b9430ed4fb549668d7b087601bd60a81",
+			"revisionTime": "2018-03-22T05:12:59Z"
+		},
+		{
+			"checksumSHA1": "EooPqEpEyY/7NCRwHDMWhhlkQNw=",
+			"path": "google.golang.org/api/gensupport",
+			"revision": "d4bfb8783945fe985beea2cb0fedffc2d020979c",
+			"revisionTime": "2018-04-08T00:12:44Z"
+		},
+		{
+			"checksumSHA1": "m4WSZX2BL8HT+183BFyBTe35i1c=",
+			"path": "google.golang.org/api/gmail/v1",
+			"revision": "d4bfb8783945fe985beea2cb0fedffc2d020979c",
+			"revisionTime": "2018-04-08T00:12:44Z"
+		},
+		{
+			"checksumSHA1": "BWKmb7kGYbfbvXO6E7tCpTh9zKE=",
+			"path": "google.golang.org/api/googleapi",
+			"revision": "d4bfb8783945fe985beea2cb0fedffc2d020979c",
+			"revisionTime": "2018-04-08T00:12:44Z"
+		},
+		{
+			"checksumSHA1": "1K0JxrUfDqAB3MyRiU1LKjfHyf4=",
+			"path": "google.golang.org/api/googleapi/internal/uritemplates",
+			"revision": "d4bfb8783945fe985beea2cb0fedffc2d020979c",
+			"revisionTime": "2018-04-08T00:12:44Z"
+		}
+	],
+	"rootPath": "api-test"
+}
